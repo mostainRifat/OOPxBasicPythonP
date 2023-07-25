@@ -1,0 +1,17 @@
+#base case,parent case
+class BaseClass:
+    pass
+
+#derived class or child class
+class DerivedClass(BaseClass):
+    pass
+
+
+"""
+1.simple inheritence : parent --> child class(gadget---> phone) (gadget---laptop)
+2. Multi level Inheritence : Granda --> parent --> CHild (vehicle --> Bus --> ac bus)
+        (vehicle --> truck --> pickup)
+3. MUltiple inheritence : Student (Family , School, sports)
+
+4. Hybird : Granda --> father , uncle --> child;
+"""
